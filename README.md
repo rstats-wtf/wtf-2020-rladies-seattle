@@ -1,7 +1,7 @@
 Project-Oriented Workflows in R
 ===============================
 
-https://www.meetup.com/rladies-seattle/
+<https://www.meetup.com/rladies-seattle/>
 
 :spiral_calendar: November 9, 2020  
 :alarm_clock:     1:00 PM  
