@@ -14,7 +14,7 @@ Slides
 Activity prompts
 
   * `use_course("rstd.io/wtf-explore-libraries")`
-    - No luck? Get the files in this repo: <https://github.com/jennybc/wtf-explore-libraries>
+    - No luck? Get the files in this repo: <https://github.com/rstats-wtf/wtf-explore-libraries>
 
 Resources
 
