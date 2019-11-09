@@ -7,6 +7,7 @@ Agenda
   
 Slides
 
+  * [wtf-opening.pdf](materials/wtf-opening.pdf)
   * [project-oriented-workflow.pdf](materials/project-oriented-workflow.pdf)
     - *note: same PDF is used for sessions 1 and 2*
   
