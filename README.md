@@ -8,6 +8,9 @@ Project-Oriented Workflows in R
 :hotel:           eScience Institute, University of Washington  
 
 
+UW NetID: event0987
+Password: UotS=YahJ=YobN
+
 Kara Woo will present on project-oriented workflows in R. The workshop will
 cover the first two modules of the two-day What They Forgot to Teach You About R
 workshop (https://rstudio-conf-2020.github.io/what-they-forgot/). This workshop
