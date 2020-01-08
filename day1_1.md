@@ -2,20 +2,22 @@
 
 Agenda
 
-  * Administering your R installation 1 of 2
-  * R Startup files
-  * Maintaining R
-
+  * Iterating well with purrr
+  
 Slides
 
-  * [R-startup](materials/R-startup.pdf)
-
+  * [purrr slides on SpeakerDeck](materials/2018-09_purrr-latinr.pdf)
+  
 Activity prompts
 
-  * `usethis::use_course("rstd.io/wtf-startup")`
-    - Having trouble? Grab the files in this repo: <https://github.com/jimhester/wtf-startup>
-
+  * *appear in the slides*
+    
 Resources
 
-  * [R Startup](https://whattheyforgot.org/r-startup.html)
-  * [Maintaining R](https://whattheyforgot.org/maintaining-r.html)
+  * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
+
+reprex bonus content *just in case this comes up*
+
+  * [reprex.tidyverse.org](https://reprex.tidyverse.org/index.html)
+  * Webinar: [Screencast and PDF of slides](https://reprex.tidyverse.org/articles/articles/learn-reprex.html), [code snippets](https://github.com/tidyverse/reprex/tree/master/slides/2018-09_reprex-rstudio-webinar)
+
