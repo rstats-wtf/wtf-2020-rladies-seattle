@@ -2,23 +2,22 @@
 
 Agenda
 
-  * Project-oriented workflow, part 2 of 2
+  * Iterating well with purrr
   
 Slides
 
-  * [project-oriented-workflow.pdf](materials/project-oriented-workflow.pdf)
-    - *note: same PDF is used for sessions 1 and 2*
+  * [purrr slides on SpeakerDeck](materials/2018-09_purrr-latinr.pdf)
   
 Activity prompts
 
-  * `use_course("rstats-wtf/wtf-fix-paths")`
-  - No luck? Get the files in this repo: <https://github.com/rstats-wtf/wtf-fix-paths>
-  * `use_course("rstd.io/wtf-packages-report")`
-    - No luck? Get the files in this repo: <https://github.com/rstats-wtf/wtf-packages-report>
-
+  * *appear in the slides*
+    
 Resources
 
-  * [Saving source and blank slates](https://whattheyforgot.org/save-source.html)
-  * [Project-oriented workflow](https://whattheyforgot.org/project-oriented-workflow.html)
-  * [How to name files](https://whattheyforgot.org/how-to-name-files.html)
-  * [API for an analysis](https://whattheyforgot.org/api-for-an-analysis.html)
+  * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
+
+reprex bonus content *just in case this comes up*
+
+  * [reprex.tidyverse.org](https://reprex.tidyverse.org/index.html)
+  * Webinar: [Screencast and PDF of slides](https://reprex.tidyverse.org/articles/articles/learn-reprex.html), [code snippets](https://github.com/tidyverse/reprex/tree/master/slides/2018-09_reprex-rstudio-webinar)
+

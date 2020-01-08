@@ -1,34 +1,25 @@
 Project-Oriented Workflows in R
 ===============================
 
-<https://www.meetup.com/rladies-seattle/>
+<https://www.meetup.com/rladies-seattle/events/267465956/>
 
-:spiral_calendar: November 9, 2020  
-:alarm_clock:     1:00 PM  
-:hotel:           eScience Institute, University of Washington  
+:spiral_calendar: January 11, 2020  
+:alarm_clock:     12:00 PM  
+:hotel:           Seattle Public Library University Branch  
 
+Kara Woo will present a workshop on R configuration, maintaining R, and how to repeat yourself with purrr. The workshop will cover the 5th and 8th modules of the two-day What They Forgot to Teach You About R workshop (https://rstudio-conf-2020.github.io/what-they-forgot/).
 
-UW NetID: event0987
-Password: UotS=YahJ=YobN
+This workshop is designed for experienced R and RStudio users who want to (re)design their R lifestyle. You should take this workshop if you’ve been using R for a while, you feel like writing R code is not what’s holding you back the most, and you want to learn more about your R installation.
 
-Kara Woo will present on project-oriented workflows in R. The workshop will
-cover the first two modules of the two-day What They Forgot to Teach You About R
-workshop (https://rstudio-conf-2020.github.io/what-they-forgot/). This workshop
-is designed for experienced R and RStudio users who want to (re)design their R
-lifestyle. You'll learn holistic workflows that address the most common sources
-of friction in data analysis.
+This is a hands-on workshop, so please bring a laptop with a current version of R and RStudio installed. RSVPing helps us know how many people to expect, but is not required.
 
-You should take this workshop if: you've been using R for a while and you feel
-like writing R code is not what's holding you back the most. You've realized
-that you have more pressing "meta" problems that no one seems to talk about: You
-want to know how to divide your work into projects and scripts and how to share
-your work with others.
+This event is NOT sponsored by The Seattle Public Library.
 
 ## Schedule
 
-01:00 - 02:30 [1_1: Project-oriented workflow 1 of 2](day1_1)  
-02:30 - 03:00 Break  
-03:00 - 04:30 [1_2: Project-oriented workflow 2 of 2](day1_2)   
+12:00 - 01:30 [1_1: Iterating well with purrr](day1_1)  
+01:30 - 02:00 Break  
+02:00 - 03:30 [1_2: Personal R Administration 1](day1_2)  
 
 ## Instructors
 
@@ -37,7 +28,7 @@ your work with others.
 
 ## Feedback and communication
 
-[Issues](https://github.com/rstats-wtf/wtf-2019-rladies-seattle) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
+[Issues](https://github.com/rstats-wtf/wtf-2020-rladies-seattle) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
 * Glitches in the instructions or materials that we need to fix, for current workshop or future
 * Missing content that we identify
@@ -54,8 +45,8 @@ Written versions of content are under open development here:
   
 ## Links that are handy to us
 
-* GitHub repo: <https://github.com/rstats-wtf/wtf-2019-rladies-seattle>
-* GitHub Pages site, served from that repo: <https://rstats-wtf.github.io/wtf-2019-rladies-seattle/>
+* GitHub repo: <https://github.com/rstats-wtf/wtf-2020-rladies-seattle>
+* GitHub Pages site, served from that repo: <https://rstats-wtf.github.io/wtf-2020-rladies-seattle/>
 
 -----
 
