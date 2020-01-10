@@ -6,7 +6,7 @@ Agenda
   
 Slides
 
-  * [purrr slides on SpeakerDeck](materials/2018-09_purrr-latinr.pdf)
+  * [purrr.pdf](materials/purrr.pdf)
   
 Activity prompts
 
