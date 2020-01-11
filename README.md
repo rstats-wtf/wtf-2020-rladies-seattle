@@ -1,5 +1,5 @@
-Purrr and Maintaining R
-=======================
+R configuration and purrr
+=========================
 
 <https://www.meetup.com/rladies-seattle/events/267465956/>
 
