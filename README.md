@@ -1,5 +1,5 @@
-Project-Oriented Workflows in R
-===============================
+Purrr and Maintaining R
+=======================
 
 <https://www.meetup.com/rladies-seattle/events/267465956/>
 
